@@ -1,2 +1,3 @@
-# egghead.io-redux
-Egghead.io Lesson
+Egghead.io Lesson - Redux
+
+https://egghead.io/courses/getting-started-with-redux
